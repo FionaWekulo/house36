@@ -181,6 +181,7 @@ html{
     height:45rem;
     object-fit: cover;
     box-shadow: 2.5rem 2.5rem 0 1rem var(--greenish );
+    margin: 0 100% 0 -40%;
   }
   
   .about .info{
@@ -191,14 +192,14 @@ html{
   .about .info h2{
     color:black;
     font-size: 3rem;
-    margin: -30% 0 0 45%;
+    margin: -10% 0 0 -5%;
   }
   
   .about .info p{
     position: flex;
     font-size: 1.4rem;
     color:#444;
-    margin: 0% 0 0 45%;
+    margin: 0% 0 0 -5%;
   }
   
   .about .info .icons a{
